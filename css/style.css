@@ -1,0 +1,211 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  background-color: #f3f6fa;
+  font-family: Arial, sans-serif;
+}
+.container {
+  width: 70%;
+  background-color: #18487b;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 30px;
+  padding: 50px;
+}
+header h1 {
+  text-align: center;
+  color: #ffffff;
+  padding: 10px 0;
+  font-size: 48px;
+}
+header p {
+  text-align: center;
+  color: #b9dcff;
+  font-size: 22px;
+  padding: 20px 0;
+}
+header .icon {
+  padding: 35px 0 0;
+  text-align: center;
+}
+header a {
+  text-decoration: none;
+  padding: 18px 27px;
+  border: 2px solid #39658f;
+  border-radius: 30px;
+  background-color: #2a5685;
+  color: #ffffff;
+  font-size: 18px;
+  margin-left: 5px;
+}
+section .container {
+  background-color: #ffffff;
+}
+section h2 {
+  color: #0f3b65;
+  font-size: 36px;
+  margin: 0 0 25px;
+  padding: 5px 0 0;
+}
+.hr {
+  border-bottom: 2px solid #d5e8ff;
+  margin-bottom: 25px;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.taygot {
+  float: left;
+}
+section .taygot .intro {
+  line-height: 1.6;
+  padding: 25px 25px 5px;
+  font-size: 16px;
+}
+.color {
+  color: #0866ad;
+}
+section .taygot .description {
+  line-height: 1.6;
+  padding: 15px 25px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+section .github-btn {
+  text-decoration: none;
+  padding: 22px 32px;
+  border: none;
+  border-radius: 15px;
+  background-color: #0866ad;
+  color: #ffffff;
+  font-size: 20px;
+  margin: 0 25px;
+}
+.clear-fix {
+  clear: both;
+}
+.cards .skills .content {
+  padding: 0 5px;
+  font-size: 20px;
+  color: #18324d;
+}
+.our-products {
+  padding-top: 25px;
+}
+.products-card {
+  width: 25%;
+  float: left;
+  padding: 15px;
+}
+.clear-fix {
+  clear: both;
+}
+.active {
+  background-color: #f8faff;
+  padding: 25px 15px 35px;
+  border-radius: 20px;
+  border: 1px solid #d5e8ff;
+}
+h3 {
+  color: #0866ad;
+  font-size: 24px;
+  padding: 10px 15px;
+  margin-bottom: 15px;
+}
+.show {
+  color: #18324d;
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 0 15px;
+}
+.education {
+  padding: 50px 0;
+  font-family: Arial, sans-serif;
+}
+.education .container {
+  margin: auto;
+  padding: 40px;
+}
+.education .hr {
+  background-color: #dbeafe;
+  margin-bottom: 32px;
+}
+.timeline {
+  padding: 30px;
+  background-color: #f8fafc;
+  border-left: 6px solid #0871bd;
+  border-radius: 20px;
+}
+.imges {
+  float: left;
+  margin-right: 32px;
+  border: 2px solid #dbeafe;
+  border-radius: 18px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.imges img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.timeline .heading {
+  font-size: 24px;
+  color: #172b45;
+}
+.timeline .card-title {
+  font-size: 20px;
+  line-height: 1.8;
+  padding: 5px 0 0;
+  font-weight: bold;
+  color: #0866ad;
+}
+.timeline .item-title {
+  font-size: 20px;
+  line-height: 1.8;
+  padding: 0 10px;
+}
+.items-title {
+  font-size: 15px;
+  padding: 20px;
+}
+.subheading {
+  padding-top: 30px;
+}
+.contact-me .container {
+  background-color: #18487b;
+}
+.contact-me .content {
+  color: #ffffff;
+  padding: 10px 0 25px;
+  font-size: 18px;
+}
+.contact-me h2 {
+  color: #ffffff;
+}
+.contact-me .icon a {
+  text-decoration: none;
+  padding: 16px 20px;
+  border: 1px solid #52769a;
+  border-radius: 12px;
+  background-color: #2a5685;
+  color: #ffffff;
+  font-size: 18px;
+  margin-left: 5px;
+}
+.footer .container {
+  background-color: #071b36;
+  color: #ffffff;
+  padding: 55px 10px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+.footer span {
+  color: #69c5ff;
+  font-weight: bold;
+}
